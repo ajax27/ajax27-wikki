@@ -1,0 +1,49 @@
+#search {
+  height: 33px;
+  width: 360px;
+  border: 1px solid #02578b;
+  padding-left: 20px;
+  margin: 0 auto;
+}
+
+#search[placeholder] {
+  font-size: 20px;
+}
+
+.heading {
+  margin: 0;
+  color: #fff !important;
+  font-family: "Permanent Marker", cursive;
+  font-weight: 600;
+  font-size: 3rem;
+}
+
+i {
+  color: #fff;
+  font-size: 18px;
+  letter-spacing: 2px;
+  height: 40px;
+  padding: 4px;
+}
+
+.live {
+  margin-top: 5px;
+}
+
+.random {
+  margin-top: 20px;
+}
+
+.searchBox {
+  margin-top: 47px;
+}
+
+.shortHr {
+  width: 100px;
+  border-bottom: 2px solid #fff;
+}
+
+.jumbotron {
+  border-radius: 0px !important;
+  background-color: #02578b;
+}
